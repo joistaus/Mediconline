@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Mediconline" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#e15b49</item>
+        <item name="colorPrimaryDark">#e15b49</item>
+        <item name="colorAccent">#64798a</item>
+    </style>
+    <style name="Theme.Splash" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">#FFFFFF</item>
+        <item name="colorPrimaryDark">#FFFFFF</item>
+        <item name="colorAccent">#64798a</item>
+    </style>
+</resources>
